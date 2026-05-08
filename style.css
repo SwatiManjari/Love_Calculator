@@ -12,7 +12,7 @@ body{
     text-align: center;
     padding: 20px;
     margin: 20px;
-    height: 500px;
+    height: 400px;
     background: linear-gradient(300deg, #F57799, #FB9B8F, #FFF7CD);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
@@ -65,7 +65,6 @@ body{
     .card {
         padding: 25px 15px;
         width: 95%;
-        height:400px;
     }
     #your-name, #crush-name, #calculate-btn {
         width: 90%;
