@@ -64,6 +64,7 @@ body{
     .card {
         padding: 25px 15px;
         width: 95%;
+        margin:0 auto;
     }
     #your-name, #crush-name, #calculate-btn {
         width: 90%;
