@@ -4,7 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     padding: 20px;
-    margin: 20px;
+    margin: 0;
 }
 .card
 {
@@ -12,6 +12,7 @@ body{
     text-align: center;
     margin:0 auto;
     height: 400px;
+    width: 90%; 
     background: linear-gradient(300deg, #F57799, #FB9B8F, #FFF7CD);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
