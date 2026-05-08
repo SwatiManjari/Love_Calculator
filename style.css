@@ -1,0 +1,51 @@
+body{
+    background-color:lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
+.card
+{
+    background-color:lightpink;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    height: 400px;
+    background: linear-gradient(300deg, #F57799, #FB9B8F, #FFF7CD);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.card1
+{
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;   
+}
+.card2
+{
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;  
+}
+#your-name
+{
+    text-align: center;
+    font-size: medium;
+    background-color: #FFF7CD;
+}
+#crush-name
+{
+    text-align: center;
+    font-size: medium;
+    background-color: #FFF7CD;
+    margin-bottom: 10px;
+}
+#calculate-btn
+{
+    text-align: center;
+    font-size: medium;
+    margin-bottom: 10px;
+    background-color: #FFF7CD;
+}
