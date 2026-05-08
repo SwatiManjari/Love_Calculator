@@ -61,3 +61,12 @@ body{
     margin:10px;
     padding:10px;
 }
+@media (max-width: 480px) {
+    .card {
+        padding: 25px 15px;
+        width: 95%;
+    }
+    #your-name, #crush-name, #calculate-btn {
+        width: 90%;
+        font-size: 16px;
+    }
