@@ -12,7 +12,7 @@ body{
     text-align: center;
     padding: 20px;
     margin: 20px;
-    height: 400px;
+    height: 500px;
     background: linear-gradient(300deg, #F57799, #FB9B8F, #FFF7CD);
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
@@ -27,7 +27,8 @@ body{
 {
     font-size: 20px;
     margin: 20px;
-    padding: 10px;  
+    padding: 10px;
+    margin-bottom:10px;
 }
 #your-name
 {
@@ -48,4 +49,15 @@ body{
     font-size: medium;
     margin-bottom: 10px;
     background-color: #FFF7CD;
+    margin-bottom: 10px;
+}
+#result
+{
+    margin:10px;
+    padding:10px;
+}
+#message
+{
+    margin:10px;
+    padding:10px;
 }
